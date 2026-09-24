@@ -2,8 +2,8 @@ itemName = ""
 quantitySold = 0
 pricePerUnit = 0
 
-print ("=" * 39)
-print ("        SALES RECORD MANAGEMENT")
+print("=" * 39)
+print("        SALES RECORD MANAGEMENT")
 print("=" * 39)
 print("1. add sales record")
 print("2. View All Record & Summary Statistics")
